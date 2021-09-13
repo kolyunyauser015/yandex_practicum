@@ -4,7 +4,7 @@ __Purpose:__ Identify patterns that determine the success of the game for choosi
 
 __Stack:__
 1. Open data files. Study general information and omissions.
-2 Data preprocessing
+2. Data preprocessing
 - changed the name of columns (change to normal form-lowercase);
 - removed gaps in the Name and Genre columns;
 - in the Year_of_Release column, the omissions are replaced with the year of release of the game with the same name, the rest - with the year of release updated from other sources (Internet);
