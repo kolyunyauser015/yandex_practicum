@@ -1,4 +1,4 @@
-__Topic:__ 
+__Topic:__ Testing hypotheses to increase revenue in an online store. Evaluating the results of the AB test
 
 __Purpose:__ 
 
