@@ -1,4 +1,4 @@
-__Topic:__ Testing hypotheses to increase revenue in an online store. Evaluating the results of the AB test
+__Topic:__ Testing hypotheses to increase revenue in an online store. Evaluating the results of the A/B test
 
 __Purpose:__ 
 Prioritize a list of hypotheses to increase revenue.
