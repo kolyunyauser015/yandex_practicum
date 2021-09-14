@@ -1,33 +1,18 @@
 __Topic:__ Analysis of passenger air transportation.
 
-__Purpose:__ Identify patterns that determine the success of the game for choosing a potentially popular product and plan advertising campaigns. According to historical data on game sales, user and expert ratings, genres and platforms, it is necessary to prepare proposals for the store for the strategy next year.
+__Purpose:__ Choose the top 10 cities by the number of flights. Conduct an analysis of the dependence: 
+- aircraft models and the number of flights; cities and number of flights;
+- top-10 cities and the number of flights.
+To test the hypothesis about the difference in the average demand for tickets during various festivals and at normal times
 
 __Stack:__
-1. Open data files. Study general information and omissions.
-2. Data preprocessing
-- changed the name of columns (change to normal form-lowercase);
-- removed gaps in the Name and Genre columns;
-- in the Year_of_Release column, the omissions are replaced with the year of release of the game with the same name, the rest - with the year of release updated from other sources (Internet);
-- omissions in the columns Critic_Score, User_Score are replaced with the median value of the corresponding group, but previously in the column User_Score tbd are replaced with -1 (when calculating the median, -1 values were not taken into account);
-- changed data types;
-- in the User_Score column, values lead to a 100-point scale.
-3. A research analysis of the data was carried out.
-- determined how many games were released in different years;
-- analysis of changes in sales by platform was carried out;
-- selected platforms with the highest total sales and studied the change by year;
-- the period of "life" of platforms is defined;
-- the current period of three years has been determined;
-- it is determined which platforms are leading in sales, growing or falling. Several potentially profitable platforms have been selected;
-- built charts for global game sales broken down by platform;
-- an analysis of how users 'and critics' reviews affect sales within one popular platform. A scatter plot is constructed and the correlation between reviews and sales is calculated.
-- an analysis of the distribution of games by genre was carried out.
-4. A user profile of each region has been compiled. The most popular platforms and most popular genres are defined for the user of each region. The impact of the ESRB rating on sales in a particular region is determined.
-5. Hypothesis testing:
-Average user ratings for the Xbox One and PC platforms are the same;
-The average user ratings for the Action and Sports genres are different.
-6. General conclusion.
 
-__Conclusion:__ The decline in sales of games with the Adventure genre suggests refraining from their release next year. But the release of programs with the Shooter, Platform genres needs to be increased. Hypothesis testing showed: The hypothesis that the average user ratings of the Xbox One and PC platforms are the same is rejected. The hypothesis that the average user ratings of the Action and Sports genres are different is not proven.
+
+__Conclusion:__ The hypothesis about the difference in the average demand for tickets during various festivals and at normal times was not confirmed. During festivals, the demand practically does not change - just look at the ticket_amount column of the combined table and compare the values.
+The number of flights depends on:
+1. the class of the airport - the higher the class, the more flights
+2. depending on the number of airports in the city - the more airports in the city, the more flights there are naturally
+3. depending on the model of the aircraft-aircraft designed for long-distance flights make fewer flights, naturally they are in flight for more time, they need more time to prepare for the flight. During this time, small aircraft can make several flights.
 
 __Skills and tools:__ Python, Pandas, NumPy, Matplotlib, data preprocessing, research data analysis, descriptive statistics, testing statistical hypotheses.
 
