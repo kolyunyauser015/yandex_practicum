@@ -17,6 +17,10 @@ __Stack:__
 7. General conclusion
 
 __Conclusion:__ 
+There is no statistical difference between the shares of users in the control groups for all events - the division into groups works correctly.
+There are no statistical differences for all events between the share of users in the group with the changed font and the share of users in each control group, as well as the share of users in the combined control group.
+Therefore, changing the font does not affect the conversion of users.
+When testing hypotheses, a significance level of 0.05 (5%) was chosen, which allows us to exclude errors of the first kind.
 
 __Skills and tools:__ 
 
