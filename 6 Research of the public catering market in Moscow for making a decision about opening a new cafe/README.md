@@ -8,6 +8,16 @@ __Purpose:__ To make a decision on opening a small cafe in Moscow (robots should
 Prepare a presentation for investors based on the results of the research
 
 __Stack:__
+1. Data loading and preprocessing
+- Data analysis
+- Data preprocessing
+2. Analysis of public catering establishments
+- Study of the ratio of types of public catering facilities by their number
+- Study the ratio of network and non-network objects by their number
+- Research of network establishments
+- The dependence of the number of seats on the type of object
+- Analysis of the geographical location of public catering facilities
+3. Output
 
 __Conclusion:__ Based on the results of the analysis, it is proposed:
 1. Open a cafe
