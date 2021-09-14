@@ -1,4 +1,4 @@
-__Topic:__ 
+__Topic:__ Analyzing user behavior in a mobile app
 
 __Purpose:__ 
 
