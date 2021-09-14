@@ -22,7 +22,7 @@ There are no statistical differences for all events between the share of users i
 Therefore, changing the font does not affect the conversion of users.
 When testing hypotheses, a significance level of 0.05 (5%) was chosen, which allows us to exclude errors of the first kind.
 
-__Skills and tools:__ 
+__Skills and tools:__ A / Btesting, Python, Pandas, Matplotlib, Seaborn, event analytics, product metrics, Plotly, testing statistical hypotheses, data visualization.
 
 __Project status:__ Completed.
 
