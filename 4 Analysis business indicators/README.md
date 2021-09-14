@@ -11,6 +11,7 @@ __Purpose:__ To help marketers reduce costs — to abandon unprofitable traffic 
 - marketing costs;
 - the cost of attracting one buyer from each source;
 - how much did the expenses pay off.
+
 Give marketers recommendations on which traffic sources should be focused on. Identify the most promising cohorts of clients for the company.
 
 __Stack:__
