@@ -1,4 +1,4 @@
-__Topic:__ 
+__Topic:__ Creating a dashboard based on custom events.
 
 __Purpose:__ 
 Create a dashboard in which to open:
