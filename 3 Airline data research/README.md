@@ -1,4 +1,4 @@
-__Topic:__ Study of patterns that determine the success of games.
+__Topic:__ Analysis of passenger air transportation.
 
 __Purpose:__ Identify patterns that determine the success of the game for choosing a potentially popular product and plan advertising campaigns. According to historical data on game sales, user and expert ratings, genres and platforms, it is necessary to prepare proposals for the store for the strategy next year.
 
