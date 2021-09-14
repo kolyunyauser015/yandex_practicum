@@ -2,7 +2,13 @@ __Topic:__
 
 __Purpose:__ 
 
-__Stack:__
+__Stack:__ 
+1. Creating a remote machine in Yandex.Cloud service. 
+2. PostgreSQL installation, database deployment. 
+3. Writing a pipeline script that allows you to collect data for a certain period of time, and configuring it to work offline via crontab. 
+4. To visualize the collected data, I wrote a script. 
+5. Creating a dashboard in Tableau Public. 
+6. Creating a presentation.
 
 __Conclusion:__ 
 
