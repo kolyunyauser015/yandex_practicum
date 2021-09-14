@@ -17,6 +17,6 @@ The number of flights depends on:
 2. depending on the number of airports in the city - the more airports in the city, the more flights there are naturally
 3. depending on the model of the aircraft-aircraft designed for long-distance flights make fewer flights, naturally they are in flight for more time, they need more time to prepare for the flight. During this time, small aircraft can make several flights.
 
-__Skills and tools:__ Python, Pandas, NumPy, Matplotlib, data preprocessing, research data analysis, descriptive statistics, testing statistical hypotheses.
+__Skills and tools:__ SQL, Python, Pandas, Matplotlib, SciPy, testing statistical hypotheses.
 
 __Project status:__ Completed.
