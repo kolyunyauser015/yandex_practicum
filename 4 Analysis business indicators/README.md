@@ -30,7 +30,7 @@ __Stack:__
 - LTV
 - CAC
 - ROMI
-4 Output
+4. Output
 
 __Conclusion:__ 
 The largest return on marketing investment is accounted for by 1 source, then 5 and 2. At the same time, the highest cost of attracting a client is accounted for by 3 and 2 sources. It is proposed to redistribute the marketing costs of 3 sources in the interests of 1 and 5 sources.
