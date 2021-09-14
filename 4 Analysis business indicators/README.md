@@ -15,6 +15,22 @@ __Purpose:__ To help marketers reduce costs — to abandon unprofitable traffic 
 Give marketers recommendations on which traffic sources should be focused on. Identify the most promising cohorts of clients for the company.
 
 __Stack:__
+1. Loading data
+2. Preparing the data for analysis
+- changing the column names;
+- changing the data type.
+3. Calculation of metrics
+- DAU, WAU and MAU
+- Determination of the average number of site visits per day
+- ASL (average session duration)
+- Retention Rate
+- the average time from the moment of the first visit to the site to making a purchase
+- the average number of purchases per user for 6 months
+- average check
+- LTV
+- CAC
+- ROMI
+4 Output
 
 __Conclusion:__ 
 The largest return on marketing investment is accounted for by 1 source, then 5 and 2. At the same time, the highest cost of attracting a client is accounted for by 3 and 2 sources. It is proposed to redistribute the marketing costs of 3 sources in the interests of 1 and 5 sources.
@@ -23,5 +39,6 @@ It is proposed to change the priorities in the future and direct the marketing c
 Cohort analysis showed that the most promising cohorts for the company are the cohorts of September, December, June, July, August.
 
 __Skills and tools:__ 
+Python, Pandas, Matplotlib, cohort analysis, uniteconomics, product metrics
 
 __Project status:__ Completed.
