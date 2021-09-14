@@ -27,6 +27,7 @@ __Conclusion:__ Based on the results of the analysis, it is proposed:
 5. It is necessary to work out the issue of further development of the cafe network. 
 
 __Skills and tools:__ 
+Python, Pandas, Seaborn, Plotly, data visualization
 
 __Project status:__ Completed.
 
