@@ -11,7 +11,9 @@ Analyze the results of the A / B test
 
 __Stack:__
 
-__Conclusion:__ 
+__Conclusion:__ There is a statistically significant difference in the conversion rate between the groups both according to raw data and after filtering out anomalies.
+There is no statistically significant difference in the average check.
+It is proposed to stop the test, fix the victory of group B by conversion
 
 __Skills and tools:__ 
 
