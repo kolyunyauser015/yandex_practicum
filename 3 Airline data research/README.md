@@ -1,8 +1,10 @@
 __Topic:__ Analysis of passenger air transportation.
 
-__Purpose:__ Conduct an analysis of the dependence: 
+__Purpose:__ 
+Conduct an analysis of the dependence: 
 - aircraft models and the number of flights; 
 - cities and number of flights.
+
 To test the hypothesis about the difference in the average demand for tickets during various festivals and at normal times
 
 __Stack:__
