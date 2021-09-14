@@ -11,6 +11,7 @@ __Stack:__
 
 
 __Conclusion:__ The hypothesis about the difference in the average demand for tickets during various festivals and at normal times was not confirmed. During festivals, the demand practically does not change - just look at the ticket_amount column of the combined table and compare the values.
+
 The number of flights depends on:
 1. the class of the airport - the higher the class, the more flights
 2. depending on the number of airports in the city - the more airports in the city, the more flights there are naturally
