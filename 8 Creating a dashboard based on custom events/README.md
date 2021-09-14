@@ -1,6 +1,12 @@
 __Topic:__ 
 
 __Purpose:__ 
+Create a dashboard in which to open:
+1. the history of events by card topics (two graphs -
+absolute numbers and percentage ratio);
+2. share of events by source topics;
+3. the number of events depending on the source topics and
+card topics
 
 __Stack:__ 
 1. Creating a remote machine in Yandex.Cloud service. 
