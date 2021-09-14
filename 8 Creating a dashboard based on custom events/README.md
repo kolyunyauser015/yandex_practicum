@@ -11,6 +11,11 @@ __Stack:__
 6. Creating a presentation.
 
 __Conclusion:__ 
+The developed dashbrod allows you to analyze the history of events by card topics , determine the share of source topics and the number of events
+depending on the source topics and card topics.
+At the same time, it is possible to filter data by time, card topics, and age groups of users
+The dashboard is publicly available, the link to the dashboard is on the Tableau Public website:
+[dashboard](https://public.tableau.com/app/profile/nikolay.z./viz/Book1_16310247944990/sheet4?publish=yes)
 
 __Skills and tools:__ Python, SQLAlchemy, PostgreSQL, dash, Tableau, product metrics, building dashboards
 
