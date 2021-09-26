@@ -8,7 +8,7 @@ __Purpose:__
 __Stack:__ 
 1. A research analysis of the data was carried out
 2. Pre-processing of data
-- Selection of features
+- Selection of signs
 - Working with emissions
 - Standardization of data.
 3. The forecast of the probability of outflow (at the level of the next month) for each client is calculated. Using the binary classification model of clients.
