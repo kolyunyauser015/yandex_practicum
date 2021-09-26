@@ -20,9 +20,8 @@ Clusters with a higher share of outflow have the following characteristics: tota
 Based on this, we can offer the following recommendations for the strategy of interaction with customers and their retention:
 - continue the "bring a friend" campaign, it is desirable to increase discounts at the same time;
 - to develop the practice of conducting group classes (it is possible to conduct several introductory, free group classes to attract clients to this form of classes);
-- consider the issue of increasing the frequency of group classes;
-- let's consider the question of increasing the frequency of group classes.
-expand the range of other fitness center services
+- let's consider the question of increasing the frequency of group classes;
+- expand the range of other fitness center services
 
 __Skills and tools:__ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, machine learning, classification clustering
 
