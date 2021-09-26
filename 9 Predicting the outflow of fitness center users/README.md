@@ -23,7 +23,7 @@ Based on this, we can offer the following recommendations for the strategy of in
 - let's consider the question of increasing the frequency of group classes;
 - expand the range of other fitness center services
 
-__Skills and tools:__ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, machine learning, classification clustering
+__Skills and tools:__ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, machine learning, classification, clustering
 
 __Project status:__ Completed.
 
